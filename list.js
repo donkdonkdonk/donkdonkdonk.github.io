@@ -4,11 +4,6 @@
   }
 })(jQuery);
 
-let close = document.getElementsByClassName("close");
-for (let i = 0; i < close.length; i++) {
-
-}
-
 
 $("document").ready(function() {
 
